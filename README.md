@@ -1,4 +1,4 @@
-![Foto ciencia de los datos.webp](https://raw.githubusercontent.com/Elimntero/Proyecto-EDA-con-Python/refs/heads/main/Foto%20ciencia%20de%20los%20datos.webp?token=GHSAT0AAAAAADCALK4HQTDM43UD4ONVEWASZ7X3DMA)
+![Foto ciencia de los datos.webp][(https://raw.githubusercontent.com/Elimntero/Proyecto-EDA-con-Python/refs/heads/main/Foto%20ciencia%20de%20los%20datos.webp?token=GHSAT0AAAAAADCALK4HQTDM43UD4ONVEWASZ7X3DMA)](https://raw.githubusercontent.com/Elimntero/Proyecto-EDA-con-Python/refs/heads/main/Foto%20ciencia%20de%20los%20datos.webp?token=GHSAT0AAAAAADCALK4G4ZD43CLI4PX7CRHYZ7X34JQ)
 # Análisis de Datos Bancarios y de Clientes
 Este proyecto realiza una exploración, limpieza, análisis descriptivo y visualización de un dataset bancario y uno de clientes.
 
