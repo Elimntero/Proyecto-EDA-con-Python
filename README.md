@@ -23,29 +23,24 @@ Este proyecto realiza una exploración, limpieza, análisis descriptivo y visual
 # Contenido del Análisis
 1.	Carga de datos: lectura de archivos CSV y Excel.
 2.	Limpieza:
-o	Eliminación de duplicados.
-
-o	Manejo de datos faltantes.
-
-o	Normalización de nombres de columnas.
+    -	Eliminación de duplicados.
+    -	Manejo de datos faltantes.
+    -	Normalización de nombres de columnas.
 
 4.	Transformación:
-o	Conversión de tipos de datos.
-
-o	Combinación de hojas de Excel.
+    - Conversión de tipos de datos.
+    - Combinación de hojas de Excel.
 
 6.	Análisis descriptivo:
-o	Estadísticas básicas (media, mediana, desviación estándar).
-
-o	Matrices de correlación.
+    - Estadísticas básicas (media, mediana, desviación estándar).
+    - Matrices de correlación.
 
 8.	Visualización de datos:
-o	Histogramas de distribución.
-
-o	Gráficos de barras.
+    - Histogramas de distribución.
+    - Gráficos de barras.
 
 10.	Conclusiones:
-o	Principales hallazgos y patrones identificados.
+    - Principales hallazgos y patrones identificados.
 
 # Requisitos
 •	Python 3.11+
