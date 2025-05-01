@@ -1,5 +1,5 @@
 ![Foto ciencia de los datos.webp](https://github.com/Elimntero/Proyecto-EDA-con-Python/blob/main/Foto%20ciencia%20de%20los%20datos.webp)
-# Análisis de Datos Bancarios y de Clientes
+:computer: # Análisis de Datos Bancarios y de Clientes
 Este proyecto realiza una exploración, limpieza, análisis descriptivo y visualización de un dataset bancario y uno de clientes.
 
 # Archivos
