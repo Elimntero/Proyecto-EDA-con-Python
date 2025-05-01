@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 # :white_check_mark: Ejecución
 Corre el script principal:
-python main.py
+Python for Data .ipynb
 
 # :chart_with_downwards_trend: Resultados
 •	Limpieza efectiva de datos faltantes y duplicados.
