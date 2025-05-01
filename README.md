@@ -2,7 +2,7 @@
 # :computer: Análisis de Datos Bancarios y de Clientes
 Este proyecto realiza una exploración, limpieza, análisis descriptivo y visualización de un dataset bancario y uno de clientes.
 
-# :page_with_curl Archivos
+# :page_with_curl: Archivos
 •	bank-additional.csv: Datos bancarios.
 
 •	customer-details.xlsx: Detalles de clientes entre 2012 y 2014.
