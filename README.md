@@ -7,7 +7,7 @@ Este proyecto realiza una exploración, limpieza, análisis descriptivo y visual
 
 •	customer-details.xlsx: Detalles de clientes entre 2012 y 2014.
 
-# Objetivos
+# 	:balance_scale: Objetivos
 •	Transformar y limpiar los datos: detección de errores, manejo de nulos, unificación de tipos de datos.
 
 •	Demostrar dominio de estructuras de datos en Python (listas, diccionarios, funciones).
@@ -20,7 +20,7 @@ Este proyecto realiza una exploración, limpieza, análisis descriptivo y visual
 
 •	Optimizar el código y seguir buenas prácticas de programación.
 
-# Contenido del Análisis
+# :bar_chart: Contenido del Análisis
 1.	Carga de datos: lectura de archivos CSV y Excel.
 2.	Limpieza:
     -	Eliminación de duplicados.
@@ -42,7 +42,7 @@ Este proyecto realiza una exploración, limpieza, análisis descriptivo y visual
 10.	Conclusiones:
     - Principales hallazgos y patrones identificados.
 
-# Requisitos
+# :gear: Requisitos
 •	Python 3.11+
 
 •	Pandas
@@ -56,11 +56,11 @@ Este proyecto realiza una exploración, limpieza, análisis descriptivo y visual
 Puedes instalar las dependencias con:
 pip install -r requirements.txt
 
-# Ejecución
+# :white_check_mark: Ejecución
 Corre el script principal:
 python main.py
 
-# Resultados
+# :chart_with_downwards_trend: Resultados
 •	Limpieza efectiva de datos faltantes y duplicados.
 
 •	Consolidación de hojas de Excel en un solo DataFrame.
